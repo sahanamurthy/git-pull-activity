@@ -2,14 +2,14 @@
 # steps to demonstrate the process of working together on a piece
 # of code via git. In the interest of time we'll be uncommenting
 # code rather than writing it, but the same principals will apply.
-
+# 
 # Task 1: Pulling in changes
 # One partner should uncomment this method, add and
 # commit the changes and push to GitHub. The other
 # partner should run git pull to retrieve the changes.
-# def duck_noise
-#   puts "quack"
-# end
+def duck_noise
+  puts "quack"
+end
 
 # Task 2: Same as task one, but switch roles
 # def truck_noise
